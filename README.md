@@ -4,4 +4,6 @@ This is a web application for devouring burgers that you create, and keep your a
 
 Most part of this assignment has been done. However there is critical error during testing. It is needed to fixed the error before this application works properly.
 
-Error message encouter: Burger.selectAll is not a function
+Error message encouter: Burger.selectAll is not a function.
+
+This application is yet to be deployed on Heroku.
